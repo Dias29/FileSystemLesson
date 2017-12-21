@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\bin\Debug\DirectoryLesson.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\bin\Debug\DirectoryLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\bin\Debug\DirectoryLesson.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\obj\Debug\DirectoryLesson.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\obj\Debug\DirectoryLesson.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\DirectoryLesson\DirectoryLesson\obj\Debug\DirectoryLesson.pdb
